@@ -9,3 +9,5 @@ achieving a crucial 68.26% test accuracy, contributing to Home Credit’s lendin
 enhancing the Deep Learning model to achieve a test F1 score (0.7311) and a public score (0.7537).
 - Executed a varied ensemble strategy with Random Forest, CatBoost, and XGBoost via stacking. Integrated a deep
 learning algorithm, boosting predictive accuracy by 10%.
+
+Final PPT: [Phase4 Presentation](Phase%204/Group0011_Phase4_Presentation.pptx)
